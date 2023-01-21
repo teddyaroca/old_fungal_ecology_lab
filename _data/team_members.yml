@@ -1,0 +1,24 @@
+- name: Teddy Garcia-Aroca
+  photo: teddygarciaaroca.2022.png
+  info: Assistant Professor
+  url: teddygarciaaroca
+  group: 0
+  
+- name: Marie Gisele Shimwa
+  photo: mariegisele.png
+  info: Undergraduate Researcher
+  url: mariegisele
+  group: 1
+
+- name: Karissa Rieck
+  photo: karissarieck.png
+  info: Undergraduate Researcher
+  url: karissarieck
+  group: 1
+
+- name: Elizabeth Chhoeung
+  photo: elizabeth.chhoeung.jpg
+  info: Undergraduate Researcher
+  url: elizabethchhoeung
+  group: 1
+
