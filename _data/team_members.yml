@@ -1,5 +1,5 @@
 - name: Teddy Garcia-Aroca
-  photo: teddygarciaaroca.2022.png
+  photo: teddygarciaaroca.noBackground.cropped.jpg
   info: Assistant Professor
   url: teddygarciaaroca
   group: 0
@@ -14,11 +14,5 @@
   photo: karissarieck.png
   info: Undergraduate Researcher
   url: karissarieck
-  group: 1
-
-- name: Elizabeth Chhoeung
-  photo: elizabeth.chhoeung.jpg
-  info: Undergraduate Researcher
-  url: elizabethchhoeung
   group: 1
 
