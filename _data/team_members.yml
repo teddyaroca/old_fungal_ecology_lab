@@ -3,16 +3,21 @@
   info: Assistant Professor
   url: teddygarciaaroca
   group: 0
-  
-- name: Marie Gisele Shimwa
-  photo: mariegisele.png
-  info: Undergraduate Researcher
-  url: mariegisele
-  group: 8
 
+- name: Xin Zhi Khoo
+  photo: xinzhikhoo.png
+  info: Master Student
+  url: xinzhikhoo
+  group: 1
+  
 - name: Karissa Rieck
   photo: karissarieck.png
   info: Undergraduate Researcher
   url: karissarieck
   group: 2
 
+- name: Marie Gisele Shimwa
+  photo: mariegisele.png
+  info: Undergraduate Researcher
+  url: mariegisele
+  group: 8
